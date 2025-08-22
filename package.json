@@ -1,0 +1,15 @@
+{
+  "name": "discord-ticket-bot",
+  "version": "1.0.0",
+  "description": "بوت تذاكر متكامل مع إمبيد واستمارات بدون حد يومي",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "YourName",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.0",
+    "dotenv": "^16.3.1"
+  }
+}
